@@ -3,9 +3,12 @@ Using Git
 
 Contained herein are the notes I used for the talk I gave on the git 
 version control system. This is essentially a list of commands I issued 
-during the talk with some notes mixed in.
+during the talk with some notes mixed in. GitHub has an awesome source 
+browser that will let you seamlessly switch between branches and commits. 
+If you're shaky on any of the things I covered in the talk, poke around 
+the file browser a little bit. Things might seem a little clearer.
 
-You're already on GitHub, though. Seriously, check out their Git tutorial. 
+Seriously, though, check out GitHub's git tutorial. 
 It's **way** better than anything I'd be able to come up with. You can find 
 it here: http://help.github.com/
 
