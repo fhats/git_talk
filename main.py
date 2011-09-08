@@ -6,7 +6,7 @@ def main(max_fib=30):
 		raise Exception
 
 	for i in range(0, max_fib):
-		print fib(i)
+		print fib(i+32)
 
 	print mean([0,2,4,5,6,7,5,9])
 
