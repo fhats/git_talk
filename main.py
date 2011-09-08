@@ -1,10 +1,10 @@
 from util import fib
+import sys
 
-def main():
-	max_fib = 30
+def main(max_fib=30):
 	for i in range(0, max_fib):
 		print fib(i)
 
 
 if __name__ == "__main__":
-	main()
+	main(int(sys.argv[1]))
