@@ -5,3 +5,7 @@ def fib(n):
 		return n
 	
 	return fib(n-2) + fib(n-1)
+
+def mean(n):
+	return sum(n) / len(n)
+	

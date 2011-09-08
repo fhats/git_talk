@@ -1,4 +1,4 @@
-from util import fib
+from util import fib, mean
 import sys
 
 def main(max_fib=30):
@@ -7,6 +7,8 @@ def main(max_fib=30):
 
 	for i in range(0, max_fib):
 		print fib(i)
+
+	print mean([0,2,4,5,6,7,5,9])
 
 
 if __name__ == "__main__":
